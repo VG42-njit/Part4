@@ -1,0 +1,16 @@
+/*DEVELOPER: Vinay Praneeth Reddy, Gavinolla, IS117-004, Spring 2021 */
+aside {
+    width: 215px;
+    float: left;
+    padding: 0 0 20px 20px;
+}
+
+footer {
+    background-color: white;
+    clear: both;
+}
+
+section{
+    float : right
+    padding: 0 0 20px 20px
+}
